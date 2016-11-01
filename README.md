@@ -1,4 +1,3 @@
-# wiki_scipt
 
 Requirements:
 -------------
