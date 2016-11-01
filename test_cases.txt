@@ -1,0 +1,21 @@
+=================================================TESTCASES===============================================
+
+url = https://en.wikipedia.org/wiki/Bermuda_Triangle
+
+
+When entering 1:
+
+I/P : 3
+O/P : The earliest suggestion of unusual disappearances in the Bermuda area appeared in a September 17, 1950 article published in The Miami Herald (Associated Press)
+
+I/P : 5
+O/P :  Two years later, Fate magazine published "Sea Mystery at Our Back Door",
+
+
+When entering 2:
+
+I/P : Subsequent writers did not necessarily follow this definition.
+O/P : 2
+
+I/P :  Flight 19 alone would be covered again in the April 1962 issue of American Legion magazine.
+O/P : 7
