@@ -11,6 +11,14 @@ O/P : The earliest suggestion of unusual disappearances in the Bermuda area appe
 I/P : 5
 O/P :  Two years later, Fate magazine published "Sea Mystery at Our Back Door",
 
+I/P : 2
+
+O/P : 
+ Subsequent writers did not necessarily follow this definition.
+ Some writers gave different boundaries and vertices to the triangle, with the total area varying from 1,300,000 to 3,900,000 km2 (500,000 to 1,510,000 sq mi).
+ Consequently, the determination of which accidents occurred inside the triangle depends on which writer reported them.
+ The United States Board on Geographic Names does not recognize the Bermuda Triangle.
+
 
 When entering 2:
 
@@ -19,3 +27,17 @@ O/P : 2
 
 I/P :  Flight 19 alone would be covered again in the April 1962 issue of American Legion magazine.
 O/P : 7
+
+
+
+Another special case
+---------------------
+
+url = https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+When entering 2
+
+I/P : The phenomenon was first observed in a series of experiments by David Dunning and Justin Kruger of the department of psychology at Cornell University in 1999.
+O/P : 
+1
+2
