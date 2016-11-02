@@ -28,6 +28,10 @@ O/P : 2
 I/P :  Flight 19 alone would be covered again in the April 1962 issue of American Legion magazine.
 O/P : 7
 
+I/P : The phenomenon was first observed in a series of experiments by David Dunning and Justin Kruger of the department of psychology at Cornell University in 1999.
+O/P :
+15
+16
 
 
 Another special case
